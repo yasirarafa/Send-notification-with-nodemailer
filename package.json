@@ -1,0 +1,28 @@
+{
+  "name": "send-notification-with-nodemailer",
+  "version": "1.0.0",
+  "description": "Send notification with the help of nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasirarafa/Send-notification-with-nodemailer.git"
+  },
+  "author": "Yasir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasirarafa/Send-notification-with-nodemailer/issues"
+  },
+  "homepage": "https://github.com/yasirarafa/Send-notification-with-nodemailer#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "nodemailer": "^6.4.6",
+    "nodemon": "^2.0.3",
+    "path": "^0.12.7"
+  }
+}
