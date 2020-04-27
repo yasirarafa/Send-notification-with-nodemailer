@@ -34,8 +34,8 @@ app.post('/send', (req, res) => {
         port: 587,
         secure: false, // true for 465, false for other ports
         auth: {
-            user: '62f606ed055e2617b616b5a97d6693d8', // generated ethereal user
-            pass: '26216d9fd4c15461e38be06db4541dea' // generated ethereal password
+            user: '********************************', // generated ethereal user
+            pass: '********************************' // generated ethereal password
         }
     });
 
