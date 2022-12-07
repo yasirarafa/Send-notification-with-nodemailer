@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/yasirarafa/Send-notification-with-nodemailer#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "express-handlebars": "^4.0.3",
     "nodemailer": "^6.4.6",
     "nodemon": "^2.0.3",
